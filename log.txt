@@ -1,0 +1,6 @@
+2020/03/02 08:13:10 There was an error while attempting to buy the stock: null
+2020/03/02 08:14:41 There was an error while attempting to buy the stock: null
+2020/03/02 08:18:59 Purchased aapl stock at $300.0, since its higher that the current price ($273.63)
+2020/03/02 08:18:59 Purchased stock!
+2020/03/02 08:25:25 Bid for aapl was $200.0 but the stock price is $273.63, no purchase was made.
+2020/03/02 08:25:25 Couldn't buy the stock at that price.
